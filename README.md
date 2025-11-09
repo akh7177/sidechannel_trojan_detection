@@ -19,9 +19,9 @@
 
 `python3 analyze_vcd.py alu_clean.vcd alu_trojan.vcd`
 
-## Activity comparision and Visualisation
+## Activity comparison and Visualisation
 
-### Tabular Representation of Switching Activity Comparision 
+### Tabular Representation of Switching Activity Comparison 
 
 <img src="./Output_Files/output_table.png" alt="Toggle Comparison" width="500" height="600">
 
