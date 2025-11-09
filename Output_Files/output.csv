@@ -1,0 +1,14 @@
+signal,clean,trojan,abs_diff,rel(%),suspicious
+A,15,15,0,0.000,False
+B,255,255,0,0.000,False
+Y,973,973,0,0.000,False
+and_out,169,169,0,0.000,False
+carry_add,29,29,0,0.000,False
+carry_out,368,368,0,0.000,False
+carry_sub,30,30,0,0.000,False
+diff,240,240,0,0.000,False
+op,1023,1023,0,0.000,False
+or_out,169,169,0,0.000,False
+sum,255,255,0,0.000,False
+trojan_trigger,0,2,2,inf,True
+zero_flag,219,221,2,0.913,False
